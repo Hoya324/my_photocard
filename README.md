@@ -8,6 +8,7 @@
 
 ## 이미지 분석 참고자료
 https://velog.io/@tmvkrorl/이미지-유사도-분석
+https://www.youtube.com/watch?v=XK3eU9egll8
 
 ## 언어 선택
 Java
