@@ -8,3 +8,13 @@
 
 ## 이미지 분석 참고자료
 https://velog.io/@tmvkrorl/이미지-유사도-분석
+
+## 언어 선택
+Java
+https://blog.acronym.co.kr/579
+
+python
+https://hongku.tistory.com/189
+
+- 파이썬으로 선택
+https://studium-anywhere.tistory.com/22
