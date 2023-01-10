@@ -10,6 +10,7 @@
 https://velog.io/@tmvkrorl/이미지-유사도-분석
 https://www.youtube.com/watch?v=XK3eU9egll8
 https://koreapy.tistory.com/1186
+https://m.blog.naver.com/codinglab9807/222711897434
 
 ## 언어 선택
 Java
